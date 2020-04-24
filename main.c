@@ -12,3 +12,6 @@ Feature2()
 	// Feature2 code
 }	
 
+Security Patch()
+{
+}

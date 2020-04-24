@@ -1,14 +1,14 @@
 Hello World
 
-
+<<<<<<< HEAD
 Feature1()
 {
 	//Feature1 code
 }
 
-
+=======
 Feature2()
 {
 	// Feature2 code
 }	
-
+>>>>>>> feature2
